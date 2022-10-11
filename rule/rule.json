@@ -2,8 +2,8 @@
   {
     "id": "zhongzisou",
     "name": "种子搜",
-    "url": "https://m.zhongziso77.xyz",
-    "icon": "https://m.zhongziso77.xyz/favicon.ico",
+    "url": "http://m.zhongziso77.xyz",
+    "icon": "http://m.zhongziso77.xyz/favicon.ico",
     "paths": {
       "preset": "/list/{k}/{p}",
       "size": "/list_length/{k}/{p}",
